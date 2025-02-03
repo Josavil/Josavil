@@ -1,7 +1,11 @@
 ## Hi there 👋
 
-I'm currently studying DAM (Desarrollo de Aplicaciones Multiplataforma) in Oceano Atlántico, in Zaragoza, Spain.
+🏰 I am from Aragón, where i was born and I currently live
+💻 I'm currently studying DAM (Desarrollo de Aplicaciones Multiplataforma) in Oceano Atlántico, in Zaragoza, Spain.
+📜 I have suties in laws, since I studied Derecho for 4 years in UNIZAR (Universidad de Zaragoza)
+⛺ I volunteer as a monitor in Entaban (scouts).
 
+I have worked and/or participated in projects such as...:
 
 <!--
 **Josavil/Josavil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

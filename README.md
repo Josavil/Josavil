@@ -2,7 +2,7 @@
 
 🏰 I am from Aragón, where i was born and I currently live.  
 💻 I'm currently studying DAM [^1] in Oceano Atlántico, in Zaragoza, Spain.  
-📜 I have suties in laws, since I studied Derecho for 4 years in UNIZAR[^2].  
+📜 I have knowledge in laws, since I studied Derecho for 4 years in UNIZAR[^2].  
 ⛺ I volunteer as a monitor in Entaban (scouts).  
 
 ## I have worked and/or participated in projects such as...:

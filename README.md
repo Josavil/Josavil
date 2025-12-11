@@ -5,8 +5,6 @@
 📜 I have knowledge in laws, since I studied Derecho for 4 years in UNIZAR[^2].  
 ⛺ I volunteer as a monitor in Entaban (scouts).  
 
-## I have worked and/or participated in projects such as...:
-
 
 [^1]: Desarrollo de Aplicaciones Multiplataforma.  
 [^2]: Universidad de Zaragoza.

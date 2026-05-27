@@ -1,6 +1,6 @@
 ## Hi there 👋  
 
-🏰 I am from Aragón, where i was born and I live.  
+🏰 I am from Aragón, where I was born and live.  
 💻 I'm currently studying DAM [^1] in Oceano Atlántico, in Zaragoza, Spain.  
 📜 I have knowledge in laws, since I studied Derecho for 4 years in UNIZAR[^2].  
 ⛺ I volunteer as a monitor in Entaban (scouts).  
